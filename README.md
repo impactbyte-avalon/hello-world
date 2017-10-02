@@ -13,6 +13,5 @@ About This Site Ini adalah laman personal saya yang berisi tentang macam-macam k
 - <head>
 - <body>
 - <footer>
-</dl>
 ```
 --------------------------------------------------------------------------------
