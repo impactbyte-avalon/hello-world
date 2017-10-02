@@ -20,7 +20,7 @@ Start our first project, Hello World! To practice our very basic skills on moder
 
 ## Level 0
 
-- Relax your mind
+- Relax your mind and soul
 - Use a recommended OS
 - Open your terminal/shell based on your OS
 - Install tools with your OS package manager or setup installation: code editor and Git
