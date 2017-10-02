@@ -14,13 +14,13 @@ Start our first project, Hello World! To practice our very basic skills on moder
 - Use Git and GitHub
 - Use Markdown
 - Use HTML
-- Ask questions and discuss in group
-
+- Ask questions and do Nothing
+- A Good Laptop with UBUNTU OS
 --------------------------------------------------------------------------------
 
 ## Level 0
 
-- Relax your mind
+- Relax your mind, Your Fucking Mind !!!!!
 - Use a recommended OS
 - Open your terminal/shell based on your OS
 - Install tools with your OS package manager or setup installation: code editor and Git
